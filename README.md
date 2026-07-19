@@ -252,7 +252,7 @@ model.train(
 
 ## Демострация
 
-[video](readme_data/compressed_compressed_zapis__2026-07-19_183752.mp4)
+Для просмотра нажмите [сюда](readme_data/compressed_compressed_zapis__2026-07-19_183752.mp4) и скачайте файл видео с демонстрацией.
 
 ---
 
