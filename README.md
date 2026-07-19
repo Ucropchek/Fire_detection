@@ -254,6 +254,9 @@ model.train(
 
 Для просмотра нажмите [сюда](readme_data/compressed_compressed_zapis__2026-07-19_183752.mp4) и скачайте файл видео с демонстрацией.
 
+**Предпросмотр**
+<center><img src="readme_data/Запись 2026-07-20 013638.gif"></center>
+
 ---
 
 ## Технологии
