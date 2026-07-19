@@ -252,8 +252,7 @@ model.train(
 
 ## Демострация
 
-<video src="
-[readme_data/compressed_zapis__2026-07-19_183752.mp4](https://github.com/Ucropchek/Fire_detection/blob/main/readme_data/compressed_zapis__2026-07-19_183752.mp4)" controls="controls" width="100%"></video>
+<video src="https://github.com/Ucropchek/Fire_detection/blob/main/readme_data/compressed_zapis__2026-07-19_183752.mp4" controls="controls" width="100%"></video>
 
 ---
 
