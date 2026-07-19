@@ -252,7 +252,7 @@ model.train(
 
 ## Демострация
 
-<video src="readme_data/Запись 2026-07-19 183752.mp4" controls="controls" width="100%">К сожалению ваш браузер не поддерживает видео в markdown</video>
+<video src="readme_data/compressed_zapis__2026-07-19_183752.mp4" controls="controls" width="100%">К сожалению ваш браузер не поддерживает видео в markdown</video>
 
 ---
 
